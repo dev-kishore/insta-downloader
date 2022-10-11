@@ -1,0 +1,7 @@
+GET http://localhost:8080/downloader/video?url=https://www.instagram.com/tv/CeLB1OhFQnS/?utm_source=ig_web_copy_link
+
+###
+GET http://localhost:8080/downloader/image?url=https://www.instagram.com/p/CdnxvQAvr8Z/?utm_source=ig_web_copy_link
+
+###
+GET http://localhost:8080/downloader/reels?url=https://www.instagram.com/reel/CgXQgpAAStE/?utm_source=ig_web_copy_link
